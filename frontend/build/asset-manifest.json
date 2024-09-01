@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/your-hr/static/css/main.36b825a5.css",
+    "main.js": "/your-hr/static/js/main.520d3f5f.js",
+    "index.html": "/your-hr/index.html",
+    "main.36b825a5.css.map": "/your-hr/static/css/main.36b825a5.css.map",
+    "main.520d3f5f.js.map": "/your-hr/static/js/main.520d3f5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36b825a5.css",
+    "static/js/main.520d3f5f.js"
+  ]
+}
